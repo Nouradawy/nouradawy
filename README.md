@@ -33,5 +33,5 @@ I specialize in building scalable, high-performance applications from the ground
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouradawy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nouradawy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 </div>
