@@ -5,7 +5,7 @@
 
 *Transforming rough ideas into refined digital experiences. From paper ball to paper plane.* ✈️
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://nouradawy.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouradawy)
 
 </div>
